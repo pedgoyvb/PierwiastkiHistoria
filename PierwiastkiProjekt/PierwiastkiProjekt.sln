@@ -1,0 +1,22 @@
+﻿Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolver", "QuadraticSolver\QuadraticSolver.csproj", "{3F835047-7AEC-4274-B94B-85E22A44AB25}"
+EndProject
+Project("{2150E333-BFDC-42A3-9474-1A3956D46DE8}") = "QuadraticSolver.Tests", "QuadraticSolver.Tests", "{CE630F29-72B9-4C2F-86EC-75BFA9CF41A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolver.Tests", "QuadraticSolver.Tests\QuadraticSolver.Tests.csproj", "{606A98E1-718A-4B57-AFC1-BEC274CF35AF}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F835047-7AEC-4274-B94B-85E22A44AB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F835047-7AEC-4274-B94B-85E22A44AB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F835047-7AEC-4274-B94B-85E22A44AB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F835047-7AEC-4274-B94B-85E22A44AB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
